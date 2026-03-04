@@ -1,2 +1,2 @@
 hello,world!
-I learn to use git today.
+git is a free software.
